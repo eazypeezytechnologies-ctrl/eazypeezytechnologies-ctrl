@@ -1,101 +1,89 @@
-# 👋🏾 Babatunde Jegede
+👋🏾 Babatunde Jegede
 
-Builder | Systems Thinker | Future Cybersecurity Professional
+Founder, Eazy Peezy Technologies LLC
+Builder · Systems Thinker · Technical Enablement & Cybersecurity Professional
 
-🚀 Founder of Eazy Peezy Technologies LLC
+📍 Atlanta, Georgia
+🌐 https://eazypeezytech.com
 
-🔐 Cybersecurity Bootcamp Graduate (Emory / Fullstack Academy)
+⸻
 
-📍 Atlanta, GA (Open to Relocate)
+🚀 Eazy Peezy Technologies
 
----
+I build practical technology that turns complex problems into clear, usable systems.
 
-## 🚀 What I Do
+Eazy Peezy Technologies develops:
 
-I design and build systems that solve real-world problems across operations, safety, and real estate.
+* Websites and digital business experiences
+* Mobile and web applications
+* Business operations and decision-support systems
+* Automation and connected workflows
+* Research-led product concepts
+* Ongoing Technology Care & Management
 
-My work focuses on:
+We build solutions. You build legacies.
 
-- Turning complex workflows into simple systems
-- Building tools for execution (not just tracking)
-- Creating scalable, real-world applications
+🧠 Featured Builds
 
----
+Project	What it does	Status
+SafeBite	Product safety and allergy-awareness intelligence for food, beauty, and household products	Private Build
+OwnOps	Business opportunity, ownership-readiness, and operations planning	Internal Product
+EazyAcres	Property, zoning, feasibility, and ownership-readiness planning	Research-Led Build
+Àrokò	Content research, audience fit, cultural context, drafting, and approval support	Prototype
+OMNITAGE	Heritage, identity, naming, and cultural-intelligence platform	In Development
+Isekai’d	Anime tracking, journaling, recommendations, and fan experience	Concept
 
-## 🧠 Featured Projects
+Explore the ecosystem and project details at https://eazypeezytech.com/work.
 
-### 🛡️ SafeBite
+🧰 Core Stack
 
-AI-powered product scanner focused on allergy safety across food, skincare, and beauty products.
+* React and React Native
+* TypeScript and Node.js
+* Vite and Expo
+* Supabase
+* REST APIs and third-party integrations
+* GitHub, Bolt, and modern AI-assisted development workflows
+* Linux, Windows, networking, and technical support foundations
 
-Key Highlights:
+🔐 Cybersecurity & Technical Background
 
-- Barcode scanning + product lookup
-- Allergen detection system
-- Supabase-backed caching + API orchestration
+* Emory Continuing Education / Fullstack Academy Cybersecurity Bootcamp graduate
+* CompTIA Security+ preparation in progress
+* Experience across technical support, mobile-device support, customer operations, troubleshooting, and team leadership
+* Hands-on exposure to Linux, Windows administration, PowerShell, Active Directory, networking, Nmap, Burp Suite, Metasploit, and SIEM fundamentals
 
----
+🎯 Current Focus
 
-### 🏗️ OwnOps
+* Building and refining the Eazy Peezy Technologies product ecosystem
+* Strengthening secure application architecture and operational reliability
+* Creating systems that support real users, businesses, families, and communities
+* Pursuing technical enablement, infrastructure support, operations analysis, and cybersecurity opportunities
 
-Operations management system for logistics, acquisitions, and multi-business workflows.
+📌 Public Repositories
 
-Key Highlights:
+Selected public work includes:
 
-- Workflow + task pipeline management
-- Deal and opportunity tracking
-- Centralized operations dashboard
+* safebite-app
+* ownops-app
+* eazyacres-app
+* cybersecurity-labs
+* automation-scripts
+* expo-mobile-lab
+* Portfolio
 
----
+Some active product repositories remain private while products are being developed, validated, or prepared for controlled testing.
 
-### 🏡 EazyAcres
+📫 Connect
 
-Land and development deal analyzer for evaluating property feasibility.
+* Website: https://eazypeezytech.com
+* LinkedIn: https://linkedin.com/in/babatunde-jegede-89302961
+* GitHub: https://github.com/eazypeezytechnologies-ctrl
+* Email: babatunde@eazypeezytech.com
 
-Key Highlights:
+⸻
 
-- Buildable area + zoning analysis
-- “What Can I Build Here?” recommendation engine
-- Decision-focused real estate tooling
+⚡ Philosophy
 
----
+I build systems that turn complexity into clarity.
 
-## 🧰 Tech Stack
-
-- React Native (Expo)
-- TypeScript
-- Supabase (Auth, Database, Backend Logic)
-- Node.js
-- REST APIs + Third-Party Integrations
-
----
-
-## 📈 What I'm Focused On Now
-
-- CompTIA Security+ (in progress)
-- Strengthening backend architecture and security practices
-- Building production-ready applications
-
----
-
-## 🎯 Career Direction
-
-Seeking opportunities in:
-
-- Technical Support / IT Support
-- Systems / Operations Analyst roles
-- Entry-level Cybersecurity positions
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/babatunde-jegede-89302961  
-- 💻 GitHub: https://github.com/eazypeezytechnologies-ctrl  
-- 📧 Email: babatunde.jegede@gmail.com  
-
----
-
-## ⚡ Philosophy
-
-> “I build systems that turn complexity into clarity.”
+Tech Made Simple — For Omi.
